@@ -1,8 +1,8 @@
-## Olá! Eu sou o Kauã Gomes 👋
+## Hi! I'm Kauã Gomes 👋
 
 
-- ⚡ Cursando Engenharia de Computação e Informação na UFRJ
-- 🌱 Atualmente estudando sobre IA, Machine Learning e Visão Computacional.
+-⚡ Studying Computer Engineering and Information at UFRJ.
+-🌱 Currently focusing on Computer Vision, AI and Machine Learning.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
