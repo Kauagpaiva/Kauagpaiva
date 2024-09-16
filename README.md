@@ -1,7 +1,7 @@
 ## Hi! I'm Kauã Gomes 👋
 
 -⚡Studying Computer Engineering at UFRJ.
--🌱Currently focusing on Computer Vision, AI and Machine Learning.
+-🌱Currently focusing on Full Stack development and Machine Learning.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
