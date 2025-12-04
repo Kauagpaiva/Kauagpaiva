@@ -2,7 +2,7 @@
 
 -⚡Studying Computer Engineering at UFRJ.
 
--🌱Currently exploring Software Engineering and Data Science.
+-🌱Currently exploring Software Engineering and Artificial Intelligence.
 
 -💻Not many green blocks because most of the time I'm programming in the internship at IBM.
 
